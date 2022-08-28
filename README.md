@@ -1,5 +1,5 @@
 # https-app.patika.dev-courses-veri-yapilari-ve-algoritmalar-merge-sort-proje-DEV-D-R.
-Merge Sort Projesi 
+Merge Sort Projesi https://www.patika.dev/tr
 [16,21,11,8,12,22] -> Merge Sort
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
